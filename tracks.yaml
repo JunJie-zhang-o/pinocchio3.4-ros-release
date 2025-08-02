@@ -27,4 +27,4 @@ tracks:
     vcs_type: git
     vcs_uri: https://github.com/stack-of-tasks/pinocchio.git
     # version: :{auto}
-    version: :3.4.0
+    version: 3.4.0
