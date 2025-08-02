@@ -1,5 +1,4 @@
 tracks:
-
   noetic:
     actions:
     - bloom-export-upstream :{vcs_local_uri} :{vcs_type} --tag :{release_tag} --display-uri
@@ -22,5 +21,4 @@ tracks:
     ros_distro: noetic
     vcs_type: git
     vcs_uri: https://github.com/stack-of-tasks/pinocchio.git
-    # version: :{auto}
     version: 3.4.0
